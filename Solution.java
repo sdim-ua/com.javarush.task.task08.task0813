@@ -8,7 +8,7 @@ import java.util.HashSet;
 public class Solution {
     public static Set<String> createSet() {
         //напишите тут ваш код
-        Set<String> list= new Set<String>();
+        Set<String> list= new HashSet<>();
         list.add("Л1");
         list.add("Л1");
         list.add("Л1");
