@@ -19,7 +19,7 @@ public class Solution {
         list.add("Л8");
         list.add("Л9");
         list.add("Л10");
-      return list  
+      return list;  
     }
 
     public static void main(String[] args) {
